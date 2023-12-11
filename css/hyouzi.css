@@ -1,0 +1,13 @@
+.img { /* 画像 */
+  display: none; /* 標準が非表示 */
+  position: relative;
+  padding: 0;
+}
+.img button { /* 「CLOSE」ボタン */
+  background: #3A4763;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+}
