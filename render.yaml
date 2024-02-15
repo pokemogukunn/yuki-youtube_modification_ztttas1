@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yukiyz
+    name: gomo
     env: python
     region: Oregon
     plan: free
